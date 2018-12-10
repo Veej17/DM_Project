@@ -6,5 +6,3 @@ import pandas as pd
 
 #Read file
 data = pd.read_csv('Data/SC_expression.csv')
-
-#test
